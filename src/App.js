@@ -5,7 +5,7 @@ import './App.css';
 //routes
 import Landing from './components/landing/Landing.js';
 import Form from './components/athlete/Form.js';
-import NotFound from './404.js';
+import NotFound from './utils/404.js';
 
 class App extends Component {
   render() {
